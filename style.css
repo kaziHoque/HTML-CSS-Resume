@@ -1,4 +1,5 @@
 /* Your CSS styles go here */
+<<<<<<< HEAD
 /* Your CSS styles go here */
 h1 {
     color: red;
@@ -16,4 +17,9 @@ h3{
 
 .kz{
     font-family: 'Indie Flower', cursive;
+=======
+h1 {
+    color: red;
+    font-family: "Times New Roman", Times, serif;
+>>>>>>> 0154c83a286868bc500a07b83903eb7a1f4d5cc9
 }
