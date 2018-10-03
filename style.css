@@ -1,9 +1,11 @@
 /* Your CSS styles go here */
-<<<<<<< HEAD
+
 /* Your CSS styles go here */
 h1 {
     color: red;
     font-family: Arial, Helvetica, sans-serif;
+    /* color: red;*/
+    /*font-family: "Times New Roman", "Times", "serif";*/
 }
 
 h2 {
@@ -17,9 +19,34 @@ h3{
 
 .kz{
     font-family: 'Indie Flower', cursive;
-=======
-h1 {
-    color: red;
-    font-family: "Times New Roman", Times, serif;
->>>>>>> 0154c83a286868bc500a07b83903eb7a1f4d5cc9
+}
+/*h1 {*/
+/*    color: red;*/
+/*    font-family: "Times New Roman", "Times", "serif";*/
+
+/*}*/
+
+@media(max-width: 500px){
+	img{
+		
+	
+	text-align:center;
+	margin: auto;
+	}
+}
+@media(max-width:700px){
+	body{text-align: center;
+	margin: auto;
+	}
+}
+@media(max-width:700px){
+	table{text-align:center;
+	margin: auto;
+	}
+}
+
+@media(max-width:700px){
+	li{text-align:center;
+	margin: auto;
+	}
 }
